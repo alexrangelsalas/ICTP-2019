@@ -18,3 +18,5 @@ Repo for exercises and tests for workshops (this one!)
  https://docs.google.com/document/d/1cXCwejoF1_9NZFU0jJ-kDO63jit-glomYgKyJzPDmJE
 
 ### (insert next event if needed)
+
+https://mybinder.org/v2/gh/veritasalice/CERN_Summer_Student_demo_2019/85a302c1fe0dcc3ad4d1d8ca39e7297961741dfc
